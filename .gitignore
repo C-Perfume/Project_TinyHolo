@@ -1,12 +1,10 @@
-
-Project_4th/.vs/
-Project_4th/Library/
-Project_4th/Library/
-Project_4th/obj/
-Project_4th/Logs/
-Project_4th/Temp/
-Project_4th/UserSettings/
-Project_4th/.vsconfig
-Project_4th/*.csproj
-Project_4th/*.sln
+TinyHolo/.vs/
+TinyHolo/Library/
+TinyHolo/obj/
+TinyHolo/Logs/
+TinyHolo/Temp/
+TinyHolo/UserSettings/
+TinyHolo/.vsconfig
+TinyHolo/*.csproj
+TinyHolo/*.sln
 
